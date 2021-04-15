@@ -7,3 +7,4 @@ usethis::create_github_token()
 gitcreds::gitcreds_set()
 
 ?gitcreds
+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
